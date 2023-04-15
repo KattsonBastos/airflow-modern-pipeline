@@ -9,6 +9,7 @@ This repository contains my personal study notes and practices related to some p
 - Dynamic DAGs
 - Dynamic Task Mapping
 - Astro Python SDK
+- Best practices using Astro Python SDK
 - Airflow integration with Databricks
 - Azure Data Factory Managed Airflow
 
